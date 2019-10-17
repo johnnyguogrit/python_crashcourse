@@ -40,4 +40,35 @@
 - many_users.py 在字典中嵌套字典
 - people_pet.py 字典相关综合范例
 
+### 输入及While循环
+- parrot.py 基本输入-字符串
+- greeter.py  基本输入-字符串
+- rollercoaster.py 基本输入-数字
+- even_or_odd.py 基本输入-数字
+- rent_a_new_car.py 基本输入-字符，数字
+- counting.py While循环
+- parrot_interact.py While循环
+- cities.py 
+- ingredient.py
+- film.py While循环及多重条件语句
+- user_authentication.py While循环及列表处理
+- kill_pets.py While循环及列表处理
+- moutain_poll.py While循环及字典处理
+- cooked_food.py While循环及列表复杂处理
+- dream_destination.py While循环及字典创建
+
+### 函数
+- greeter_func.py 函数定义及函数调用（位置实参，关键字实参，默认值）
+- city_func.py 函数定义及函数调用（位置实参，关键字实参，默认值）
+- album.py While循环及函数调用
+- magician_func.py 向函数传递列表
+- toppings_func.py 向函数传递任意数量的实参
+- sandwich_func.py 向函数传递任意数量的实参
+- user_profile.py 使用任意数量的关键字实参
+- car_func.py 使用任意数量的关键字实参
+
+
+
+
+
 
