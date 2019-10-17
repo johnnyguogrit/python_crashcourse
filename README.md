@@ -29,4 +29,15 @@
 - hello_administer.py 模拟用户登陆及注册
 - series.py 遍历列表元素并对元素按照约定条件进行特殊处理
 
+### 字典
+- alien_dict.py 创建字典，访问和修改字典的键值对
+- acquaintaince.py 创建字典，访问和修改字典的键值对
+- user.py 遍历字典中的每一个键值对
+- geo.py 遍历字典中的每一个键值对，键或者与键相关的数值
+- favorite_language.py 遍历字典中的每一个键值对，键或者与键相关的数值
+- aliens.py 在列表中嵌套字典
+- pizza_dict.py 在字典中嵌套列表
+- many_users.py 在字典中嵌套字典
+- people_pet.py 字典相关综合范例
+
 
