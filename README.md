@@ -67,7 +67,15 @@
 - user_profile.py 使用任意数量的关键字实参
 - car_func.py 使用任意数量的关键字实参
 
-
+### 类
+- dog.py 类的定义和实例化
+- car_class.py 类的属性
+- electric_car.py 类的继承
+- restraunt.py 类的定义和实例化
+- restraunt_service.py 类的定义，类的实例化，类的方法调用
+- ice_cream_shop.py 类的继承
+- admin_user.py 类的继承，将实例用作属性
+- random.py python的标准库
 
 
 
