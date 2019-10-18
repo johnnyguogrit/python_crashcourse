@@ -1,0 +1,3 @@
+In Python you can control the robot.
+In Python you can analyze the report.
+In Python you can establish the web applicaiton.
