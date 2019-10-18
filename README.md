@@ -77,6 +77,18 @@
 - admin_user.py 类的继承，将实例用作属性
 - random.py python的标准库
 
+### 文件操作
+- file_reader.py 文件读取（读取整个文件，逐行读取）
+- file_read_practice.py 文件逐行读取后处理读入数据
+- guest_input.py 以不同方式写入文件
+- number_write.py 创建json文件
+- number_read.py 读取json文件
 
-
+### 异常处理
+- division.py ZeroDivisionError异常处理
+- add.py ValueError异常处理
+- alice.py FileNotFoundError异常处理
+- dog_cat.py FileNotFoundError异常处理
+- like_number.py 从json文件读取数据后的异常处理
+- write_message.py FileNotFoundError异常处理
 
